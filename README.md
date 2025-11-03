@@ -12,10 +12,10 @@ this is the first lab given to us
 | @Kalaba | `update_history()` | `feature/kalaba-update-history` | Format and store history |
 | Lweendo | `display_history()` | `feature/lweendo-display-history` | Handle empty history |
 | Christian | Test operations with valid inputs | `feature/christian-test-valid` | Unit testing |
-| @SAVIOUR 🤴🏽GENESIS | Test non-numeric & zero division | `feature/saviour-test-errors` | Validate error handling |
-| @shadrick. | Verify history & operations count | `feature/shadrick-test-history` | Confirm correctness |
-| @Sindi🩷 | Clear history feature | `feature/sindi-clear-history` | Bonus task |
-| @Temwa Chitika | Memory functions (M+, M-, MR, MC) | `feature/temwa-memory` | Bonus task |
+| SAVIOUR | Test non-numeric & zero division | `feature/saviour-test-errors` | Validate error handling |
+| shadrick | Verify history & operations count | `feature/shadrick-test-history` | Confirm correctness |
+| Sindi | Clear history feature | `feature/sindi-clear-history` | Bonus task |
+| Temwa Chitika | Memory functions (M+, M-, MR, MC) | `feature/temwa-memory` | Bonus task |
 | Vanessa | Advanced operations (exponents, sqrt) | `feature/vanessa-advanced` | Bonus task |
 | Anthony | Operations on previous result | `feature/anthony-prev-result` | Bonus task |
 | Joseph | GUI with Tkinter | `feature/joseph-gui` | Bonus task |
